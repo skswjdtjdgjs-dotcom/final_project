@@ -46,6 +46,13 @@
   - 리스크 셀러 탐지: 이동평균(window size = 10)
   - 리스크 현황 파악: 감정분석(BERT model) 및 토픽모델링(BERTopic)
 
+### ✨최종결과물
+- **Tableau 대시보드**: https://public.tableau.com/app/profile/seongheon.jeong/viz/TeamSonoOlistAnalysisDashboard/_overview
+  - Overview
+  - Catergory
+  - Seller
+  - Risk
+- **PPT**:
 
 
 
