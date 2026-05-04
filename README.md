@@ -52,7 +52,7 @@
   - Catergory
   - Seller
   - Risk
-- **PPT**:
+- **PPT**: https://drive.google.com/file/d/16ErhpaELD8YjXf34vpGCqjwgzp5GTlbh/view?usp=drive_link
 
 
 
