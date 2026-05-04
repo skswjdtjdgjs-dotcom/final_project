@@ -69,10 +69,13 @@
 ### ✨최종결과물
 #### 1️⃣**PPT**: https://drive.google.com/file/d/16ErhpaELD8YjXf34vpGCqjwgzp5GTlbh/view?usp=drive_link
 #### 2️⃣**Tableau 대시보드**: https://public.tableau.com/app/profile/seongheon.jeong/viz/TeamSonoOlistAnalysisDashboard/_overview
-  - Overview
-  - Catergory
-  - Seller
-  - Risk
+  - **Overview**: 전체 KPI, 매출 시계열 추이, 세그먼트별 리스크 현황 등
+  - **Catergory**: 카테고리 KPI, 매트릭스 분포, 전략적 우선관리 지역 지도 차트 등
+  - **Seller**: 성과 KPI, 세그먼트별 성과 차이 비교, 셀러 평균 SKU 수 추이
+    - Seller Overview
+    - Enterprise
+    - SMB
+  - **Risk**: 전체 세그먼트 및 리스크 여부 확인 KPI, 리스크별 상위 셀러 ID, 부정 리뷰 키워드 워드클라우드
 
 
 
