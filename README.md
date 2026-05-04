@@ -67,8 +67,8 @@
 ---
 
 ### ✨최종결과물
-- 1️⃣**PPT**: https://drive.google.com/file/d/16ErhpaELD8YjXf34vpGCqjwgzp5GTlbh/view?usp=drive_link
-- 2️⃣**Tableau 대시보드**: https://public.tableau.com/app/profile/seongheon.jeong/viz/TeamSonoOlistAnalysisDashboard/_overview
+#### 1️⃣**PPT**: https://drive.google.com/file/d/16ErhpaELD8YjXf34vpGCqjwgzp5GTlbh/view?usp=drive_link
+#### 2️⃣**Tableau 대시보드**: https://public.tableau.com/app/profile/seongheon.jeong/viz/TeamSonoOlistAnalysisDashboard/_overview
   - Overview
   - Catergory
   - Seller
