@@ -1,4 +1,4 @@
-## [브라질 이커머스 플랫폼 Olist Growth Team 셀러관리 시스템구축 프로젝트]
+## [브라질 이커머스 플랫폼 Olist Growth Team 셀러 관리 시스템 구축 프로젝트]
 ----
 ### 📌프로젝트 소개
 - **데이터셋**: Kaggle Olist 데이터셋 (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)
